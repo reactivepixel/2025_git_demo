@@ -9,9 +9,9 @@
 5. [x] push dev branch to remote
 
 ## Workflow for Feature Branches
-1. Ensure Dev branch is up to date
-2. Create and checkout a new branch from dev
-3. Make changes and commit them
+1. [x] Ensure Dev branch is up to date
+2. [x] Create and checkout a new branch from dev
+3. [x] Make changes and commit them
 
 # Commands
 
